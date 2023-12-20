@@ -1,3 +1,5 @@
 ### I'm Emon 👋
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=R-antDev)](https://github.com/R-antDev/github-readme-stats)
+
+<img height=200 align="left" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=R-antDev&show_icons=true"/>
+<img height=200 align="left" alt="Language usage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-antDev&layout=donut"/>
