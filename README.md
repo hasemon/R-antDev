@@ -12,7 +12,6 @@
 <img height=200 align="left" alt="Language usage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-antDev&layout=donut" /><br>
 </div>
 
-
 <div style="display: flex; flex-direction: column; margin-top: 5px; justify-content: space-evenly;">
     
   ## Connect with me:
